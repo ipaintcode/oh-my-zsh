@@ -3,6 +3,9 @@ custom/
 !custom/plugins/example
 !custom/example.zsh
 
+# system files
+.DS_Store
+
 # temp files directories
 cache/
 log/
